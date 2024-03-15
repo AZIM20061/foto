@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(255, 145, 0);
+}
+
+.block {
+    width: min-content;
+    height: min-content;
+    border-top: 2px solid red;
+}
+.block img {
+    width: 300px;
+    height: 400px;
+    border: 3px
